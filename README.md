@@ -56,8 +56,6 @@ Technologies Used
 
 Python
 
-Jupyter Notebook
-
 Libraries:
 
 Pandas & NumPy (Data Handling)
